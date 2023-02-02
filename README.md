@@ -1,4 +1,23 @@
-# learning-notes
-This is the repository for notes.
+# Living Beings
 
-This sentence was added in GitHub.
+This page will have information about living beings.
+
+## Plants
+
+For plants
+
+## Animals
+
+For animals we will bold this **letter**.
+
+Animals example:
+
+- Lion
+- Tiger
+- Elephant
+
+`print('Hello World')`
+
+[GitHub](https://github.com/)
+
+![zebra](Capture.PNG)
