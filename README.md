@@ -21,3 +21,9 @@ Animals example:
 [GitHub](https://github.com/)
 
 ![zebra](Capture.PNG)
+
+| Name | Category |
+| ----------- | ----------- |
+| Sparrow | Aves |
+| Cow | Mammal |
+| Bat | Mammal |
